@@ -3,6 +3,7 @@ import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import MyTitle from './components/MyTitle';
 import PokemonCard from './components/PokemonCard';
+import PropTypes from "prop-types";
 import './App.css'
 
 const pokemonList = [
