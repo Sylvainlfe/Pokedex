@@ -12,9 +12,9 @@ function PokemonCard({pokemon}) {
         
       </>
       
-    )
-  }
-
+    );
+  };
+  
   PokemonCard.propTypes = {
     pokemon: PropTypes.shape({
       imgSrc: PropTypes.string,
