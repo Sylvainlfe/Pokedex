@@ -1,6 +1,8 @@
 import PropTypes from "prop-types";
 
 function PokemonCard({pokemon}) {
+
+  
     
     return (
       <>
